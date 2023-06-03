@@ -11,7 +11,10 @@
 <a href="https://www.youtube.com/c/@bidetective" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="bidetective" height="30" width="40" /></a>
 </p>
 
-<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="sqlite" width="60" height="60"/>
+
+<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="youtube" width="60" height="60"/>
+
+<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" width="60" height="60"/>
 
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="linkedin" width="160" height="80"/>
 
