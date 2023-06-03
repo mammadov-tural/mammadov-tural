@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Tural] 👋
 
 ### Data Analyst | Business Intelligence Analyst 📊
 
