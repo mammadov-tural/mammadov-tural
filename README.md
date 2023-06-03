@@ -29,10 +29,9 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" width="48" height="48" alt="Golang" />
+        <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
       <br>Go
     </td>
-    <!-- Other cells follow a similar pattern -->
   </tr>
 </table>
 
