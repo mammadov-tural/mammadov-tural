@@ -18,7 +18,7 @@
 
   <a href="https://cdnlogo.com/logo/microsoft-excel-2013_39445.html"><img src="https://cdn.cdnlogo.com/logos/m/89/microsoft-excel-2013.svg" width="60" height="60"></a> <a href="https://seekvectorlogo.com/power-bi-vector-logo-svg/" target="_blank"><img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" height="80" width="160" /> </a> 
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="50"/> </a> </p>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="40"/> </a> </p>
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mammadov-tural&show_icons=true&locale=en&layout=compact" alt="mammadov-tural" /></p>
