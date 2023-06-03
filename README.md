@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
+        <img src="https://imgur.com/p7eoL4C" width="48" height="48" alt="Power BI" />
       <br>Go
     </td>
   </tr>
