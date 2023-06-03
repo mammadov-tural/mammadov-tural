@@ -41,9 +41,12 @@
 ---
 
 📫 How to reach me:
-[![Email](https://img.icons8.com/color/24/000000/gmail.png) tural.mammadov@powerbi-academy.org](mailto:tural.mammadov@powerbi-academy.org)
 
-[![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/tural-mammadov/)
+[![Email](https://img.icons8.com/color/24/000000/gmail.png) E-mail me](mailto:tural.mammadov@powerbi-academy.org)
+
+[![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png) Connect with me](https://www.linkedin.com/in/tural-mammadov/)
+
+[![YouTube](https://img.icons8.com/color/24/000000/youtube-play.png) Subscribe to my channel](https://www.youtube.com/@bidetective)
 
 ---
 
