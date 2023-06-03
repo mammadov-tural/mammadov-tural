@@ -12,11 +12,7 @@
 </p>
 
 
-<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="youtube" width="160" height="80"/>
-
-<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" width="60" height="60"/>
-
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="linkedin" width="160" height="80"/>
+<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="youtube" width="160" height="80"/> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="linkedin" width="160" height="80"/>
 
 <h3 align="left">Languages and Tool:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> </a>
