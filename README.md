@@ -1,21 +1,53 @@
-<h1 align="center">Hi 👋, I'm Tural</h1>
-<h3 align="center">Data Analyst | Business Intelligence Analyst 📊</h3>
+# Hello, I'm [Your Name] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mammadov-tural&label=Profile%20views&color=0e75b6&style=flat" alt="mammadov-tural" /> </p>
+### Data Analyst | Business Intelligence Analyst 📊
 
-- 🔭 I’m currently working on **diverse data projects that involve data cleaning, munging, analysis, visualization, and the creation of insightful dashboards.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tural-mammadov-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tural-mammadov-" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@bidetective" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bidetective" height="30" width="40" /></a>
-</p>
+#### A passionate, detail-oriented data analyst from Germany, striving to leverage data-driven decision making in the modern digital world.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mammadov-tural&show_icons=true&locale=en&layout=compact" alt="mammadov-tural" /></p>
+🔭 Currently working on diverse data projects that involve data cleaning, munging, analysis, visualization, and the creation of insightful dashboards.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mammadov-tural&show_icons=true&locale=en" alt="mammadov-tural" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mammadov-tural&" alt="mammadov-tural" /></p>
+🌱 Continually learning and updating my skills. My current focus is on advanced statistical analysis and predictive modeling.
+
+---
+
+💼 Experienced in:
+
+- SQL
+- Python
+- Excel
+- Power BI
+
+---
+
+👯 Looking forward to collaborate on data related projects.
+
+---
+
+🤔 Seeking opportunities to help businesses make data-driven decisions.
+
+---
+
+📫 How to reach me: [tural.mammadov@powerbi-academy.org]
+
+---
+
+📄 Know about my experiences: [https://www.linkedin.com/in/tural-mammadov-/]
+
+---
+
+✨ Fun fact: [Did you know? The term 'Business Intelligence' was first used in 1865 by Richard Millar Devens in his 'Cyclopædia of Commercial and Business Anecdotes.]
+
+---
+
+[![mammadov-tural](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername/github-readme-stats)
+
+---
+
+[![mammadov-tural](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername/github-readme-stats)
+
