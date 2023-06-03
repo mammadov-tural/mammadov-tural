@@ -1,10 +1,10 @@
-# Hello, I'm [Tural] 👋
+# Hello, I'm Tural 👋
 
 ### Data Analyst | Business Intelligence Analyst 📊
 
 ---
 
-#### A passionate, detail-oriented data analyst from Germany, striving to leverage data-driven decision making in the modern digital world.
+#### 🔍 A passionate, detail-oriented data analyst from Germany, striving to leverage data-driven decision making in the modern digital world.
 
 ---
 
