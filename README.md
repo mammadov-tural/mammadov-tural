@@ -24,11 +24,16 @@
 >
 > [![YouTube](https://img.icons8.com/color/24/000000/youtube-play.png) Subscribe to my channel](https://www.youtube.com/@bidetective)
 
+---
+
 💼 Experienced in:
 
 > SQL
+> 
 > Python
+> 
 > Excel
+> 
 > Power BI
 
 ---
