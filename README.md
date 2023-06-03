@@ -12,7 +12,7 @@
 </p>
 
 
-<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="youtube" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="youtube" width="160" height="80"/>
 
 <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" width="60" height="60"/>
 
