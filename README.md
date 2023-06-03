@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="youtube" width="160" height="80"/> 
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="linkedin" width="160" height="80"/>
+<a href="https://www.youtube.com/@BIDetective" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="youtube" width="160" height="80"/> </a>
+<a href="https://www.linkedin.com/in/tural-mammadov-/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="linkedin" width="160" height="80"/> </a>
 </p>
 
 
