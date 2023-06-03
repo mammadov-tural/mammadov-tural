@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tural</h1>
-<h3 align="center">Data Analyst | Business Intelligence Analyst 📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mammadov-tural&label=Profile%20views&color=0e75b6&style=flat" alt="mammadov-tural" /> </p>
 
