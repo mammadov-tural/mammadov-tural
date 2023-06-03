@@ -32,15 +32,15 @@
 
 ---
 
-📫 How to reach me: [tural.mammadov@powerbi-academy.org]
+📫 How to reach me: tural.mammadov@powerbi-academy.org
 
 ---
 
-📄 Know about my experiences: [https://www.linkedin.com/in/tural-mammadov-/]
+📄 Know about my experiences: https://www.linkedin.com/in/tural-mammadov-/
 
 ---
 
-✨ Fun fact: [Did you know? The term 'Business Intelligence' was first used in 1865 by Richard Millar Devens in his 'Cyclopædia of Commercial and Business Anecdotes.]
+✨ Fun fact: Did you know? The term 'Business Intelligence' was first used in 1865 by Richard Millar Devens in his 'Cyclopædia of Commercial and Business Anecdotes.
 
 ---
 
