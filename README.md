@@ -29,6 +29,16 @@
 <table>
   <tr>
     <td align="center" width="96">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      <br>Go
+    </td>
+    <!-- Other cells follow a similar pattern -->
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
