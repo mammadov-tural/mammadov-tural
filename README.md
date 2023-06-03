@@ -15,13 +15,43 @@
 🌱 Continually learning and updating my skills. My current focus is on advanced statistical analysis and predictive modeling.
 
 ---
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 💼 Experienced in:
 
-- SQL
-- Python
-- Excel
-- Power BI
+> SQL
+> 
+> Python
+> 
+> Excel
+> 
+> Power BI
+
+    </td>
+    <td valign="top" width="50%">
+
+📫 How to reach me:
+
+> [![Email](https://img.icons8.com/color/24/000000/gmail.png) E-mail me](mailto:tural.mammadov@powerbi-academy.org)
+>
+> [![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png) Connect with me](https://www.linkedin.com/in/tural-mammadov/)
+>
+> [![YouTube](https://img.icons8.com/color/24/000000/youtube-play.png) Subscribe to my channel](https://www.youtube.com/@bidetective)
+
+    </td>
+  </tr>
+</table>
+
+---
+
+💼 Experienced in:
+
+> SQL
+> Python
+> Excel
+> Power BI
 ---
 
 👯 Looking forward to collaborate on data related projects.
@@ -29,14 +59,6 @@
 ---
 
 🤔 Seeking opportunities to help businesses make data-driven decisions.
-
----
-
-📫 How to reach me: tural.mammadov@powerbi-academy.org
-
----
-
-📄 Know about my experiences: https://www.linkedin.com/in/tural-mammadov-/
 
 ---
 
